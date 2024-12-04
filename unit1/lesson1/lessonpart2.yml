@@ -1,6 +1,7 @@
 id: lessonpart2
 title: new
-content: "# Enter your content here"
+content: |
+  # Hi Hello
 showContent: true
 showEditor: false
 showTerminal: false
